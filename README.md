@@ -5,7 +5,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Data Cleaning and Exploratory Data Analysis (EDA) on a dataset of my choice, the popular Titanic dataset from Kaggle, focusing on exploring relationships between variables and identifying patterns and trends.
 
 ## Dataset
-The dataset used for this task is the <a href="">Dataset</a>.Titanic dataset. This dataset provides information on the passengers aboard the Titanic, including variables such as age, gender, class, and survival status. The aim is to explore how these variables relate to one another and discover insights into survival patterns.
+The dataset used for this task is the <a href="Datasets">Dataset</a>.Titanic dataset. This dataset provides information on the passengers aboard the Titanic, including variables such as age, gender, class, and survival status. The aim is to explore how these variables relate to one another and discover insights into survival patterns.
 
 ## Tools and Libraries used
 Jupyter notebook
