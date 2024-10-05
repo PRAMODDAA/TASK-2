@@ -8,11 +8,11 @@ Welcome to my submission for Task 2 of the Data Science Internship at Prodigy In
 The dataset used for this task is the <a href="Datasets">.Titanic dataset</a>. This dataset provides information on the passengers aboard the Titanic, including variables such as age, gender, class, and survival status. The aim is to explore how these variables relate to one another and discover insights into survival patterns.
 
 ## Tools and Libraries used
-Jupyter notebook
-Pandas
-Numpy
-Matplotlib & Seaborn for visualization
-Scikit-learn for preprocessing
+- Jupyter notebook
+- Pandas
+- Numpy
+- Matplotlib & Seaborn for visualization
+- Scikit-learn for preprocessing
 ## Exploratory Data Analysis (EDA)
 During the EDA process, I performed the following steps:
 
@@ -24,7 +24,7 @@ During the EDA process, I performed the following steps:
 2. *Visualization*:
 - Created visualizations (e.g., bar charts, heatmaps, and histograms) to explore the relationships between variables such as Gender, Class, Survival, and Age.
 - Used a correlation heatmap to understand how numerical features are related.
-- 
+
 3. *Survival Analysis*:
 - Analyzed survival rates based on gender, class, and age group.
 - Explored the impact of fare and family size on survival.
